@@ -1,0 +1,17 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Hyper Transfer Markup Language", "Hyperlink and Text Markup Language"],
+      "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which of the following is not a programming language?",
+      "options": ["JavaScript", "Python", "HTML", "Java"],
+      "correctAnswer": "HTML"
+    },
+    {
+      "question": "What does CSS stand for?",
+      "options": ["Counter Strike: Source", "Computer Style Sheets", "Cascading Style Sheets"],
+      "correctAnswer": "Cascading Style Sheets"
+    }
+  ]
